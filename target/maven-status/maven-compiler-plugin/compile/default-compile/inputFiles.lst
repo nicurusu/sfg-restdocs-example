@@ -1,0 +1,11 @@
+D:\UDEMY_SPRING\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\domain\Beer.java
+D:\UDEMY_SPRING\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\web\model\BeerPagedList.java
+D:\UDEMY_SPRING\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\web\model\BeerDto.java
+D:\UDEMY_SPRING\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\repositories\BeerRepository.java
+D:\UDEMY_SPRING\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\web\mappers\BeerMapper.java
+D:\UDEMY_SPRING\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\web\controller\BeerController.java
+D:\UDEMY_SPRING\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\web\controller\MvcExceptionHandler.java
+D:\UDEMY_SPRING\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\web\mappers\DateMapper.java
+D:\UDEMY_SPRING\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\SfgRestdocsExampleApplication.java
+D:\UDEMY_SPRING\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\bootstrap\BeerLoader.java
+D:\UDEMY_SPRING\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\web\model\BeerStyleEnum.java
