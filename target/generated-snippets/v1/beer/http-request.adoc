@@ -1,9 +1,7 @@
 [source,http,options="nowrap"]
 ----
-POST /api/v1/beer/ HTTP/1.1
-Content-Length: 163
-Content-Type: application/json
+GET /api/v1/beer/93e91282-06c0-4f00-b64f-c2ae27674ca1?iscold=yes HTTP/1.1
+Accept: application/json
 Host: localhost:8080
 
-{"id":null,"version":null,"createdDate":null,"lastModifiedDate":null,"beerName":"Nice Ale","beerStyle":"ALE","upc":123123123123,"price":9.99,"quantityOnHand":null}
 ----
